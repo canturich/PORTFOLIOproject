@@ -1,3 +1,3 @@
 # PORTFOLIOproject
 Part of Altcademy's Fullstack Program
-Github tracking
+Github tracking portfolio
